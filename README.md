@@ -5,7 +5,7 @@ I love building random projects, exploring new tech, and experimenting with UI/U
 
 
 ## 🚀 Tech Stack  
-[![Skills](https://skillicons.dev/icons?i=vite,react,tailwind,js,html,postman,redux,gsap,angular)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vite,react,tailwind,js,html,postman,redux,angular)](https://skillicons.dev)
 
 > _Some of these icons are from one of my own projects!_  
 🧩 https://github.com/tandpfun/skill-icons
