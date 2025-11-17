@@ -51,20 +51,15 @@
 
 ## 📫 Connect With Me
 <p align="center">
-
-  <!-- Gmail -->
+<!-- Gmail -->
   <a href="mailto:davidroshan65@gmail.com">
-    <img src="https://assets10.lottiefiles.com/packages/lf20_j1adxtyb.json" width="60" />
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45" />
   </a>
-
-  <!-- LinkedIn -->
+<!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m-0b8549293">
-    <img src="https://assets1.lottiefiles.com/packages/lf20_Cc8Bpg.json" width="60" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" />
   </a>
-
- 
 </p>
-
 
 ---
 
