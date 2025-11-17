@@ -44,7 +44,7 @@
 ## 🚗 Animated Car on Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roshan231203/roshan231203/output/car-contribution-graph.svg" alt="Car Animation" />
+  <img src="https://github.com/Roshan231203/Roshan231203/blob/main/dist/output/car-contribution-graph.svg" alt="Car Animation" />
 </p>
 
 
