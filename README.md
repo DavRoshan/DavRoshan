@@ -25,12 +25,11 @@
 <p align="center">
   <em>Some of these icons are from my own projects!</em><br/>
  🧩
-  <a href="https://skillicons.dev">
+  <a href="[https://skillicons.dev](https://github.com/Roshan231203)">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-<a href="https://github.com/Roshan231203">
-    <code>Roshan231203</code>
-  </a>
+
+
 </p>
 
 
