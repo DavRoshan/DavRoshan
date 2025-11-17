@@ -52,18 +52,19 @@
 ## 📫 Connect With Me
 <p align="center">
 
-  <!-- Gmail -->
+  <!-- Gmail (Animated) -->
   <a href="mailto:davidroshan65@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45" />
+    <img src="https://raw.githubusercontent.com/roshan231203/icons/main/gmail.gif" width="60" />
   </a>
 
-  <!-- LinkedIn -->
+  <!-- LinkedIn (Animated) -->
   <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m-0b8549293">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" />
+    <img src="https://raw.githubusercontent.com/roshan231203/icons/main/linkedin.gif" width="60" />
   </a>
 
 
 </p>
+
 
 
 
