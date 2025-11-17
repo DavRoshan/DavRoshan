@@ -17,23 +17,24 @@
     <img src="https://skillicons.dev/icons?i=vite,react,tailwind,js,html,postman,redux,angular" />
   </a>
 </p>
-
+<p align="center">
 > _Some of these icons are from my own projects!_  
 🧩 https://github.com/Roshan231203
-
+</p>
 ---
-
-## ⚡ Animated Divider  
+## 🎮 Car Game Animation  
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" />
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="400" />
 </p>
 
 ---
 
+
+<p align="center">
 ## 📫 Connect With Me  
 - 💌 **Public Email:** `roshan231203@gmail.com`  
 - 💌 **Personal Email:** `davidroshan65@gmail.com`  
-
+</p>
 ---
 
 ## 🔥 Bonus: Cool Animated Footer  
