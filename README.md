@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vite,react,tailwind,js,html,postman,redux,angular" />
@@ -19,15 +19,31 @@
 </p>
 
 <p align="center">
-  <em>Some of these icons are from my own projects!</em><br>
-  🧩 <a href="https://github.com/Roshan231203">https://github.com/Roshan231203</a>
+  <em>Some of these icons are from my own projects!</em>  
+  <br/>🧩 <a href="https://github.com/Roshan231203">https://github.com/Roshan231203</a>
 </p>
 
 ---
 
-## 🎮 Car Game Animation  
+# 🎮 Game Animations  
+### 🚗 Car Game  
 <p align="center">
   <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="400" />
+</p>
+
+### 🐍 Snake Game  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btW6MLQ7P8GTGkM/giphy.gif" width="350" />
+</p>
+
+### 👾 Space Invader  
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="350" />
+</p>
+
+### 🏎️ Retro Racing  
+<p align="center">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="350" />
 </p>
 
 ---
@@ -40,7 +56,7 @@
 
 ---
 
-## 🔥 Bonus: Cool Animated Footer  
+## 🔥 Cool Animated Footer  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4facfe,100:00f2fe&section=footer" />
 </p>
