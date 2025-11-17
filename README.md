@@ -15,14 +15,34 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-    <a href="https://github.com/Roshan231203">
-    <img src="https://skillicons.dev/icons?i=github" />
+   
+  <a href="https://vite.dev/">
+    <img src="https://skillicons.dev/icons?i=vite" />
   </a>
-  <a href="https://github.com/Roshan231203">
-    <img src="https://skillicons.dev/icons?i=vite,react,tailwind,js,html,postman,redux,angular,git,github" />
+   <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+    <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="/">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <a href="/">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+  <a href="https://redux.js.org/">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>
+   <a href="https://roshan231203-9955266.postman.co/me/collections">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
     <a href="https://vercel.com/roshan-proz">
     <img src="https://skillicons.dev/icons?i=vercel" />  
-
+  </a>
+   <a href="https://github.com/Roshan231203">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
