@@ -16,7 +16,7 @@
 ## 🚀 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,react,tailwind,js,html,postman,redux,angular,gitbash,git,github" />
+    <img src="https://skillicons.dev/icons?i=vite,react,tailwind,js,html,postman,redux,angular,git,github" />
   </a>
 </p>
 
