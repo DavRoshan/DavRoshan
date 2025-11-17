@@ -17,7 +17,8 @@
 <p align="center">
   <a href="https://github.com/Roshan231203">
     <img src="https://skillicons.dev/icons?i=vite,react,tailwind,js,html,postman,redux,angular,git,github" />
-     
+    <a href="https://vercel.com/roshan-proz">
+    <img src="https://skillicons.dev/icons?i=vercel" />  
 
   </a>
 </p>
