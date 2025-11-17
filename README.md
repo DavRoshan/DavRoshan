@@ -27,6 +27,9 @@
   <a href="https://github.com/Roshan231203">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m-0b8549293">
+   <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 
