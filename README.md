@@ -63,11 +63,6 @@
   </a>
 
 
-  <!-- Instagram -->
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="45" />
-  </a>
-
 </p>
 
 
