@@ -1,5 +1,6 @@
 # 👋 Hey There!
-**I'm Roshan** — a Front-End Developer, Maker.  
+**I'm Roshan** 
+**FRONT-END DEVELOPER**  
 I spend most of my time building interfaces, experimenting with UI/UX, and trying out whatever new tech decides to appear each week.
 
 ## 🚀 Tech Stack
