@@ -25,11 +25,11 @@
     <a href="https://tailwindcss.com/">
     <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
-  <a href="/">
+  <a href="https://github.com/Roshan231203">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
 
-  <a href="/">
+  <a href="https://github.com/Roshan231203">
     <img src="https://skillicons.dev/icons?i=javascript" />
   </a>
   <a href="https://redux.js.org/">
@@ -51,13 +51,25 @@
 
 ## 📫 Connect With Me
 <p align="center">
- <a href="davidroshan65@gmail.com">
-   <img src="https://skillicons.dev/icons?i=gmail" />
+
+  <!-- Gmail -->
+  <a href="mailto:davidroshan65@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45" />
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m-0b8549293">
-   <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" />
   </a>
+
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="45" />
+  </a>
+
 </p>
+
 
 
 
