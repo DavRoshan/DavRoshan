@@ -15,7 +15,7 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Roshan231203">
     <img src="https://skillicons.dev/icons?i=vite,react,tailwind,js,html,postman,redux,angular,git,github" />
      
 
@@ -24,12 +24,9 @@
 
 <p align="center">
   <em>Some of these icons are from my own projects!</em><br/>
- 🧩
   <a href="https://github.com/Roshan231203">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-
-
 </p>
 
 
