@@ -24,7 +24,8 @@
 
 <p align="center">
   <em>Some of these icons are from my own projects!</em><br/>
-  🧩 <a href="https://github.com/Roshan231203">https://github.com/Roshan231203</a>
+  🧩 <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" /><a href="https://github.com/Roshan231203">Roshan231203</a>
 </p>
 
 ---
