@@ -66,8 +66,9 @@
 ## 🔥 Cool Animated Footer  
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradients" 
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:ffffff,100:dfe9f3&text=&fontSize=0&stroke=1&strokeColor=cccccc" 
   />
 </p>
+
 
 
