@@ -29,11 +29,21 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  💌 <strong>Public Email:</strong>
-  <a href="mailto:roshan231203@gmail.com"><code>roshan231203@gmail.com</code></a><br/>
-  💌 <strong>Personal Email:</strong>
-  <a href="mailto:davidroshan65@gmail.com"><code>davidroshan65@gmail.com</code></a>
+
+  <a href="mailto:roshan231203@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:davidroshan65@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+
 </p>
+
 
 ---
 
