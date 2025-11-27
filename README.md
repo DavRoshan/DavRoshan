@@ -62,14 +62,14 @@
 </p>
 
 ---
-
-### The snake 🐍
+## 🔥 The snake 🐍 
+<p align="center"> 
 
 <!-- platane/snk works, it just puts it on a new branch -->
 
 ![mishmanners snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-
+</p>
 
 
 
