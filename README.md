@@ -63,14 +63,7 @@
 
 ---
 
-## 🔥 Cool Animated Footer  
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4b0000,30:cc3300,70:ff6600,100:ffcc00&section=footer&fontSize=0" 
-  />
-</p>
-
-### Watch my contribution graph get eaten by the snake 🐍
+### The snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
 
