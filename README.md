@@ -62,7 +62,7 @@
 </p>
 
 ---
-## 🔥 The snake 🐍 
+##  🐍 The snake
 <p align="center"> 
 
 <!-- platane/snk works, it just puts it on a new branch -->
