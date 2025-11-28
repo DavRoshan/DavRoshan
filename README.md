@@ -53,7 +53,7 @@
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45" title="Email" />
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m-0b8549293">
+  <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="45" title="LinkedIn" />
   </a>
   <!-- GitHub -->
