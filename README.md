@@ -58,7 +58,7 @@
   </a>
   <!-- GitHub -->
   <a href="https://github.com/DavRoshan">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="45" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub" />
   </a>
 </p>
 
