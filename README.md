@@ -17,7 +17,7 @@
 <p align="center">
 
   <a href="https://vite.dev/" target="_blank">
-    <img src="https://vite.dev/logo.svg" width="60" height="60" alt="Vite" />
+    <img src="https://vite.dev/logo.svg" width="60" height="80" alt="Vite" />
   </a>
 
   <a href="https://react.dev/" target="_blank">
