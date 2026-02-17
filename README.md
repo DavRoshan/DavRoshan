@@ -19,8 +19,8 @@
 <a href="https://vite.dev/">
     <img 
       src="https://vite.dev/logo.svg" 
-      width="80" 
-      height="80" 
+      width="90" 
+      height="90" 
       title="Vite" 
       alt="Vite Logo"
     />
