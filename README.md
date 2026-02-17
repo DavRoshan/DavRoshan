@@ -16,14 +16,15 @@
 ## 🚀 Tech Stack
 <p align="center">
 
-  <a href="https://vite.dev/" target="_blank">
+<a href="https://vite.dev/" target="_blank">
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-plain.svg" 
     width="60" 
     height="60" 
     alt="Vite"
   />
 </a>
+
 
   <a href="https://react.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />
