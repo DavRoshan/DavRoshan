@@ -20,7 +20,7 @@
     <img 
       src="https://vite.dev/logo.svg" 
       width="50" 
-      height="160" 
+      height="120" 
       title="Vite" 
       alt="Vite Logo"
     />
