@@ -16,60 +16,44 @@
 ## 🚀 Tech Stack
 <p align="center">
 
-  <!-- Vite (Latest Official Logo) -->
   <a href="https://vite.dev/" target="_blank">
-    <img 
-      src="https://vite.dev/logo.svg" 
-      width="50" 
-      height="50" 
-      title="Vite" 
-      alt="Vite Logo"
-    />
+    <img src="https://vite.dev/logo.svg" width="60" height="60" alt="Vite" />
   </a>
 
-  <!-- React -->
   <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="50" height="50" title="React" />
+    <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />
   </a>
 
-  <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" title="Next.js" />
+    <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" />
   </a>
 
-  <!-- Tailwind -->
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" title="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind CSS" />
   </a>
 
-  <!-- HTML -->
   <a href="https://github.com/DavRoshan">
-    <img src="https://skillicons.dev/icons?i=html" width="50" height="50" title="HTML5" />
+    <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
   </a>
 
-  <!-- JavaScript -->
   <a href="https://github.com/DavRoshan">
-    <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" />
   </a>
 
-  <!-- Redux -->
   <a href="https://redux.js.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redux" width="50" height="50" title="Redux" />
+    <img src="https://skillicons.dev/icons?i=redux" width="60" height="60" alt="Redux" />
   </a>
 
-  <!-- Postman -->
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" title="Postman" />
+    <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" />
   </a>
 
-  <!-- Vercel -->
   <a href="https://vercel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" title="Vercel" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Vercel" />
   </a>
 
-  <!-- GitHub -->
   <a href="https://github.com/DavRoshan">
-    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
   </a>
 
 </p>
@@ -79,15 +63,15 @@
 ## 📫 Connect With Me
 <p align="center">
   <a href="mailto:davidroshan65@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45" title="Email" />
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="50" />
   </a>
 
   <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" title="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="50" />
   </a>
 
   <a href="https://github.com/DavRoshan">
-    <img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
   </a>
 </p>
 
