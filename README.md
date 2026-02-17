@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&center=true&vCenter=true&width=600&lines=FRONT-END+DEVELOPER;Next.js+Developer;Vite+Developer;Web/App+Developer;Always+Learning+New+Tech!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&center=true&vCenter=true&width=600&lines=FRONT-END+DEVELOPER;Vite+React Developer;Web/App+Developer;Always+Learning+New+Tech!" 
   />
 </p>
 
