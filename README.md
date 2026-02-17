@@ -62,6 +62,14 @@
     <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
   </a>
 
+<a href="https://www.emailjs.com/" target="_blank">
+  <img 
+    src="https://www.vectorlogo.zone/logos/emailjs/emailjs-icon.svg" 
+    width="80" 
+    height="80" 
+    alt="EmailJS"
+  />
+</a>
 </p>
 
 ---
