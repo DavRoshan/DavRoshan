@@ -17,11 +17,14 @@
 <p align="center">
 
 <a href="https://vite.dev/">
-  <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50" height="120" title="Vite" />
-</a>
-
-
-
+    <img 
+      src="https://vite.dev/logo.svg" 
+      width="50" 
+      height="160" 
+      title="Vite" 
+      alt="Vite Logo"
+    />
+  </a>
 
   <a href="https://react.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />
