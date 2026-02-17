@@ -16,14 +16,10 @@
 ## 🚀 Tech Stack
 <p align="center">
 
-<a href="https://vite.dev/" target="_blank">
-  <img 
-    src="https://skillicons.dev/icons?i=vite&theme=dark" 
-    width="60" 
-    height="60" 
-    alt="Vite"
-  />
+<a href="https://vite.dev/">
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50" height="120" title="Vite" />
 </a>
+
 
 
 
