@@ -14,16 +14,10 @@
 ---
 
 ## 🚀 Tech Stack
-<p align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<a href="https://vite.dev/">
-    <img 
-      src="https://vite.dev/logo.svg" 
-      width="90" 
-      height="90" 
-      title="Vite" 
-      alt="Vite Logo"
-    />
+  <a href="https://vite.dev/">
+    <img src="https://vite.dev/logo.svg" width="80" height="80" alt="Vite" />
   </a>
 
   <a href="https://react.dev/" target="_blank">
@@ -38,11 +32,11 @@
     <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind CSS" />
   </a>
 
-  <a href="https://github.com/DavRoshan">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
   </a>
 
-  <a href="https://github.com/DavRoshan">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" />
   </a>
 
@@ -58,11 +52,11 @@
     <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Vercel" />
   </a>
 
-  <a href="https://github.com/DavRoshan">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
   </a>
-  
-</p>
+
+</div>
 
 ---
 
