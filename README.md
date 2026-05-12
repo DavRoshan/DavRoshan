@@ -13,71 +13,75 @@
 
 ---
 
-## 🚀 Tech Stack
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+# 🚀 Tech Stack
 
-  <a href="https://vite.dev/">
-    <img src="https://vite.dev/logo.svg" width="80" height="80" alt="Vite" />
+<p align="center">
+  <a href="https://vite.dev/" target="_blank">
+    <img src="https://vite.dev/logo.svg" width="65" height="65" alt="Vite" />
   </a>
 
   <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />
+    <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
   </a>
 
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" />
+    <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
   </a>
 
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
   </a>
 
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
+    <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
   </a>
 
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JavaScript" />
   </a>
 
   <a href="https://redux.js.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redux" width="60" height="60" alt="Redux" />
+    <img src="https://skillicons.dev/icons?i=redux" width="65" height="65" alt="Redux" />
   </a>
 
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" />
+    <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
   </a>
 
   <a href="https://vercel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Vercel" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
   </a>
 
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
+  <a href="https://github.com/DavRoshan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
   </a>
-
-</div>
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
+
 <p align="center">
   <a href="mailto:davidroshan65@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="50" />
   </a>
 
-  <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m">
+  <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="50" />
   </a>
 
-  <a href="https://github.com/DavRoshan">
+  <a href="https://github.com/DavRoshan" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="50" />
   </a>
 </p>
 
 ---
 
-## 🐍 The Snake
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
+    alt="GitHub Contribution Snake"
+  />
 </p>
