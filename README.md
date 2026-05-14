@@ -20,6 +20,7 @@
 <img src="https://skillicons.dev/icons?i=vite,react,nextjs,tailwind,html,css,js,redux,postman,vercel,github,vscode&theme=dark" />
 
 </div>
+
 ---
 
 # 📫 Connect With Me
